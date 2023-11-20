@@ -1,0 +1,1 @@
+<?php /**PATH D:\ACHMAD SURYA SAPUTRA\Website Achmad Surya\voter\voter\resources\views/team.blade.php ENDPATH**/ ?>
